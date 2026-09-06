@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Keep the example environment file
+!.env.example
+
+# Real recipient/configuration data
+config/recipients.json
+config/*.local.json
+
+# Selenium/browser files
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets / credentials
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.bak
