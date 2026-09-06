@@ -97,10 +97,10 @@ Example:
 {
   "recipients": [
     {
-      "phone": "+919876543210"
+      "phone": "+911234567890"
     },
     {
-      "phone": "+919123456789"
+      "phone": "+91XXXXXXXXXX"
     }
   ]
 }
@@ -111,7 +111,7 @@ Use the international phone number format.
 For example:
 
 ```text
-+919876543210
++911234567890
 ```
 
 Do not include spaces, brackets, or dashes.
